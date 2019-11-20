@@ -1,8 +1,7 @@
 def roll_call_dwarves(argument)
   array = argument
   array.each_with_index {|item|,|index|}
-  array[index}=item
-  array
+  
   
 end
 
